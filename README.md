@@ -12,3 +12,13 @@
 # Abrir o relatório
 
 Executar o comando `npx playwright show-report`
+
+# Executar o projeto
+`yarn playwright test --headed`
+
+# Executar o teste em modo Debug
+ `yarn playwright test --debug`
+ 
+## Instalando o FakeJs
+
+`yarn add @faker-js/faker -D`
